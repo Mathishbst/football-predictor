@@ -19,8 +19,8 @@ from backtesting import run_backtest, print_summary
 # CONFIG
 # ===========================================================================
 
-DATA_DIR = "/Users/herbstmathis/Documents/python/data"
-MODEL_DIR = "/Users/herbstmathis/Documents/python/models"
+DATA_DIR = "data"
+MODEL_DIR = "models"
 
 st.set_page_config(
     page_title="⚽ Football Predictor",
